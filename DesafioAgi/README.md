@@ -4,7 +4,7 @@
 - No canto superior direito, clicar em Preview e iniciar a conversa com o bot.
 
 ************************ Introdução ************************
-- Ao acessar a primeira opção relativa ao Status, se for inserido o número 123456, a API irá bater no Beeceptor (Mock) e retornará o status com base nesse "código".
+- Ao acessar a primeira opção relativa ao Status, se for inserido o número 123456, a API irá bater no Beeceptor (Mock) e retornará o status com base nesse "código" retornando "Em Transito".
 - Qualquer outro valor retornará Não Encontrado.
 
 ************************ Melhorias ************************
